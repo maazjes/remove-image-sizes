@@ -1,6 +1,6 @@
 # Remove Image Sizes
 
-Remove Image Sizes is a simple WordPress plugin that allows removing image sizes that WordPress automatically generates during the upload process.
+Remove Image Sizes is a simple WordPress plugin that allows removing image sizes that WordPress automatically generates during the upload process. Use this plugin together with my other plugin, [Tiny Compress](https://github.com/maazjes/tiny-compress), for full scale image optimization.
 
 ## Demo
 
